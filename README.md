@@ -2,9 +2,11 @@
 
 An interactive Excel/VBA profit-and-loss dashboard modeled on multi-store regional reporting for Olive Garden (Darden Restaurants). All figures are **dummy data** — nothing here is real Darden financial information.
 
+![Vancouver store dashboard — full P&L view across Month, Quarter, and Year](vancouver_example.png)
+
 ## What it's for
 
-Corporate P&L reports are built for finance teams, not for the people who actually move the numbers. A server stretched on a Friday night, a line cook watching food cost, a manager covering a close — they don't open a 30-row P&L statement. They want one screen that tells them whether their store is up or down versus last year, in real time.
+Corporate P&L reports are built for finance teams, not for the operations who actually move the numbers. A server stretched on a Friday night, a line cook watching food cost, a manager covering a close — rarely open a 30-row P&L statement. They want one screen that tells them whether their store is up or down versus last year, in real time.
 
 This dashboard serves two audiences from the same underlying data.
 
@@ -26,6 +28,8 @@ A regional manager can flip Vancouver → Tacoma → Olympia → Federal Way wit
 ## Regional comparison
 
 The **Side By Side** sheet pulls every store's headline numbers onto a single comparison view, so a regional manager can spot which store is dragging the region down or pulling it up without opening eight tabs.
+
+![Side By Side regional comparison — eight stores' headline metrics on one screen](side-by-side.png)
 
 ## Data
 
