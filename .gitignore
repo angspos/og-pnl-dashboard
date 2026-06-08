@@ -1,0 +1,15 @@
+# Excel lockfiles (created when a workbook is open)
+~$*.xlsm
+~$*.xlsx
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Backups and scratch
+*.bak
+*~
+*.tmp
